@@ -1,6 +1,3 @@
-# redesign-and-inclusive-app
-An HCI UI/UX case study featuring a heuristic evaluation and redesign of the Raigam.lk corporate website, along with LankaGo- an inclusive public transport app designed for users with disabilities.
-
 #  Website Redesign & Disability Support Mobile App (HCI Case Studies)
 
 A comprehensive Human-Computer Interaction (HCI) project featuring a real-world corporate website usability redesign and a fully accessible, inclusive public transport application tailored for users with disabilities.
